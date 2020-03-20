@@ -215,6 +215,81 @@ color: #000000;
 
 }
 
+.imagem-padrao{
+position: absolute;
+width: 65px;
+height: 52px;
+left: 3px;
+top: 0px;
+
+background: url(img/CreativeStudio.png);
+}
+
+.padrao-img{
+    position: absolute;
+width: 118px;
+height: 111px;
+left: 16px;
+top: 76px;
+
+background: url(img/imgInfoPessoais);
+}
+
+.titulo{
+    
+    position: absolute;
+    width: 157px;
+    height: 78px;
+    left: 155px;
+    top: 92px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.subtitulo{
+    position: absolute;
+    width: 77px;
+    height: 18px;
+    left: 36px;
+    top: 175px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    
+    color: #000000;
+}
+.agrupamento{
+
+    position: absolute;
+    width: 336px;
+    height: 284px;
+    left: 10px;
+    top: 230px;
+
+}
+
+.itens{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 2.5;
+
+color: #000000;
+}
 
 
 
