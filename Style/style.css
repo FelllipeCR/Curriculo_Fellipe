@@ -1,0 +1,220 @@
+
+.cabecalho{
+position: absolute;
+width: 360px;
+height: 52px;
+left: 0px;
+top: 0px;
+background: #333333;
+}
+
+.rodape{ 
+position: absolute;
+width: 360px;
+height: 18px;
+left: 0px;
+top: 622px;
+
+background: #333333;
+}
+
+#imagem-painel{
+position: absolute;
+width: 92px;
+height: 94px;
+left: 134px;
+top: 0px;
+
+background: url(img/CreativeStudio.png);
+
+}
+
+#titulo-painel{
+    position: absolute;
+width: 297px;
+height: 19px;
+left: 41px;
+top: 124px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+
+#imgInfoPessoais{
+    position: absolute;
+width: 118px;
+height: 111px;
+left: 36px;
+top: 182px;
+
+background: url(img/imgInfoPessoais.png);
+}
+
+#imgObjetivo{
+    position: absolute;
+    width: 123px;
+    height: 107px;
+    left: 197px;
+    top: 182px;
+    
+background: url(img/imgObjetivos.png);
+}
+
+#imgCompetencias{
+    position: absolute;
+width: 112px;
+height: 90px;
+left: 36px;
+top: 329px;
+
+background: url(img/imgCompetencias.png);
+}
+
+#imgExpProfissional{
+    position: absolute;
+    width: 111px;
+    height: 90px;
+    left: 203px;
+    top: 329px;
+    
+    background: url(img/imgExpProfissional.png);
+}
+
+#imgFormAcademica{
+    
+position: absolute;
+width: 112px;
+height: 105px;
+left: 36px;
+top: 464px;
+
+background: url(img/imgFormAcademica);
+}
+
+#imgSobre{
+
+    position: absolute;
+width: 129px;
+height: 126px;
+left: 203px;
+top: 464px;
+
+background: url(img/imgSobre.png);
+}
+
+#palavras-painel_1{
+    position: absolute;
+width: 77px;
+height: 31px;
+left: 57px;
+top: 289px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+}
+
+#palavras-painel_2{
+    position: absolute;
+width: 77px;
+height: 18px;
+left: 229px;
+top: 295px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+
+}
+
+#palavras-painel_3{
+    position: absolute;
+width: 89px;
+height: 18px;
+left: 48px;
+top: 419px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+}
+
+#palavras-painel_4{
+    position: absolute;
+    width: 100px;
+    height: 36px;
+    left: 207px;
+    top: 419px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+#palavras-painel_5{
+    
+    position: absolute;
+    width: 89px;
+    height: 18px;
+    left: 48px;
+    top: 572px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+#palavras-painel_6{
+
+position: absolute;
+width: 89px;
+height: 18px;
+left: 223px;
+top: 578px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+
+}
+
+
+
+
