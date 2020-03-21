@@ -1,4 +1,7 @@
+body{
+    background-color: white;
 
+}
 .cabecalho{
 position: absolute;
 width: 360px;
@@ -295,3 +298,29 @@ color: #000000;
     top: 650px; 
 }
 
+.texto{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+text-align: center;
+line-height: 1.5;
+
+color: #000000;
+}
+
+.rodape-competencias{
+    top: 800px;
+}
+
+.itens-sobre{
+
+line-height: 1.5;
+display: list-item;
+left:6px;
+
+
+color: #000000;
+}
