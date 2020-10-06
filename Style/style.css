@@ -4,11 +4,9 @@ body {
 }
 
 .cabecalho {
-    position: absolute;
+    position: static;
     width: 360px;
     height: 52px;
-    left: 0px;
-    top: 0px;
     /* Gray 1 */
     background: #333333;
 }
@@ -391,7 +389,7 @@ body {
     top: 270px;
     font-family: Roboto;
     font-style: normal;
-    font-weight: medium;
+    font-weight: normal;
     font-size: 18px;
     line-height: 19px;
     color: #000000;
